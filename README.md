@@ -8,7 +8,7 @@ In the [contracts folder](/contracts/) we have following contract structure
 
 **contractCreator**
 
-    -- withoutTreasury
+  -- withoutTreasury
 
   * [CounterResolverTaskCreatorWT.sol](/contracts/contractCreator/withoutTreasury/CounterResolverTaskCreatorWT.sol) 
 
@@ -42,7 +42,7 @@ The [gelato folder](/contracts/gelato) contain all of the helper contracts that 
 
 **test structure contractCreator**
 
-    -- withoutTreasury
+  -- withoutTreasury
 
   * [CounterResolverTaskCreatorWT.test.ts](test/contractCreator/withoutTreasury/CounterResolverTaskCreatorWT.test.ts) 
 
@@ -60,7 +60,7 @@ The [gelato folder](/contracts/gelato) contain all of the helper contracts that 
 
 **test structure userCreator**
 
-    -- withoutTreasury
+  -- withoutTreasury
 
   * [CounterResolverUserCreatorWT.test.ts](test/userCreator/withoutTreasury/CounterResolverUserCreatorWT.test.ts) 
 
