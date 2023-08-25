@@ -2,7 +2,7 @@
 
 The purpose of this repo is to showcase unit tests examples of using Gelato Automate in a Hardhat enviroment. 
 
-
+[![Video Walkthrough](https://img.youtube.com/vi/C7B_KGtSHqs/0.jpg)](https://youtu.be/C7B_KGtSHqs)
 
 ## Contract Examples
 
