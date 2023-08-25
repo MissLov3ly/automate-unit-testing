@@ -2,6 +2,8 @@
 
 The purpose of this repo is to showcase unit tests examples of using Gelato Automate in a Hardhat enviroment. 
 
+
+
 ## Contract Examples
 
 In the [contracts folder](/contracts/) we have following contract structure
@@ -91,7 +93,7 @@ We run 3 tests on every contract:
 
 2 - Create a task and execute expecting revert as we haven't any funds (either treasuty or contract)
 
-3 - Create a task, fund the treasury or contract, execute the task and check if the cunter has increase in 1.
+3 - Fund the treasury or contract, execute the task and check if the cunter has increase in 1.
 
 The test execution follows in every example this pattern:
 
